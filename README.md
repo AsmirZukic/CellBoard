@@ -1,4 +1,6 @@
 # CellBoard
-A program that displays a board of cell that can be indivualy set to alive or dead
+A simple gird of cells. Each individual cell can be adressed separately. Left click make the cell appear right click makes it disappear.
+
+Can be used as a base for other projects 
 
 ![](https://media.giphy.com/media/axJQUdzDVQkp2lXfWA/giphy.gif)
